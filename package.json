@@ -2,6 +2,7 @@
   "name": "dashboard-app",
   "version": "0.1.0",
   "author": "Ivan Davidyuk",
+  "homepage": "https://V4ne4ek.github.io/redux-job-filter",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
